@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Ritik Parate
-# A highly passionate individual with interest in Data Science and Analysis
+# Hi there 👋, I'm Ritik Parate
+## A highly passionate individual with interest in Data Science and Analysis
 
 - 🔭 I’m currently working on Toxic Comments Classifier Project
 - 🌱 I’m currently learning Deep Learning and LLM
