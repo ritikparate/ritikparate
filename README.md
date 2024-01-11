@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ritik Parate
 ## A highly passionate individual with an interest in Data Science and Analysis
 
-- 🔭 I’m currently working on Toxic Comments Classifier Project
+- 🔭 I’m currently working on World Development Indicators using Excel, SQL and PowerBi.
 - 🌱 I’m currently learning Deep Learning and LLM's
 - 💬 Ask me about Data Science and Analysis, Machine Learning, and NLP
 - 📫 How to reach me: ritikparate1@gmail.com
