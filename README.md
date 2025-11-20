@@ -1,58 +1,41 @@
-# 👋 Hi, I'm Ritik Parate
+#👋 Hi, I'm Ritik Parate
 
-🚀 **ETL Support Engineer @ Smile Automation** | 🧠 **Aspiring Data Engineer**
+🚀 ETL Support Engineer @ Smile Automation | 🌩️ Growing into an Azure Data Engineer
 
----
+👨‍💻 About Me
 
-### 👨‍💻 About Me
+I work across ETL Support and data pipeline operations, ensuring data flows smoothly across enterprise systems. I enjoy breaking down complex data problems and turning them into clean, efficient workflows using SQL, Python, and automation.
 
-I work in the **ETL Support** domain, where I handle data pipelines and ensure smooth data processing for enterprise systems.
-With a strong foundation in **SQL**, **Python**, and **Excel**, I love solving real-world data problems and optimizing workflows.
+Recently, I’ve expanded into the Azure Data Engineering ecosystem, building real-time and batch solutions using:
 
-Currently, I’m diving deep into the **Data Engineering ecosystem** — learning tools and technologies like:
+⚙️ PySpark for scalable transformations
 
-* ⚙️ **PySpark** for distributed data processing
-* 🌪️ **Kafka** for real-time streaming
-* ☁️ **AWS** for cloud-based data solutions
-* 🔄 **Airflow** for workflow orchestration
-* 🧩 **CI/CD** diving deep into pipelines for automation
+🌪️ Kafka for streaming ingestion
 
----
+🌩️ Azure Data Lake + Azure Databricks for storage & processing
 
-### 🎯 My Goal
+🔄 Azure Data Factory for orchestration
 
-To transition into a **Data Engineering role** within the next 6 months — building scalable, production-grade data systems that truly make an impact.
+🧩 CI/CD for automated deployments
 
----
+🔥 What I’m Working On
 
-### 🧠 What I’m Up To
+Building an end-to-end Azure data pipeline project using PySpark, ADF, ADLS, and Databricks
 
-* Learning by doing — building small data projects & sharing them here.
-* Exploring how automation, data quality, and system reliability come together in modern data platforms.
-* Networking with professionals and data enthusiasts to learn from their journeys.
+Designing real-time ingestion workflows for analytics use cases
 
----
+Experimenting with data quality, automation, and monitoring practices
 
-### 📫 Connect With Me
+🎯 My Goal
 
-Let’s talk data, projects, or ideas!
+Transition into a Data Engineering role — contributing to scalable, production-grade data platforms in the next 6 months.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ritik15/)
-* 🧑‍💻 [Portfolio](#) *(coming soon!)*
+📫 Let’s Connect
 
----
+Open to conversations around data, engineering, automation, and cool ideas.
 
-> *“Data tells stories — I just help it speak louder.”*
+💼 LinkedIn
 
-<!--
-**ritikparate/ritikparate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Portfolio (coming soon)
 
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“Data tells stories — I just help it speak louder.”
