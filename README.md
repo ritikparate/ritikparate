@@ -1,41 +1,46 @@
-#👋 Hi, I'm Ritik Parate
+# 👋 Hi, I'm Ritik Parate
 
-🚀 ETL Support Engineer @ Smile Automation | 🌩️ Growing into an Azure Data Engineer
+🚀 **ETL Support Engineer @ Smile Automation** | 🌩️ **Aspiring Azure Data Engineer**
 
-👨‍💻 About Me
+---
 
-I work across ETL Support and data pipeline operations, ensuring data flows smoothly across enterprise systems. I enjoy breaking down complex data problems and turning them into clean, efficient workflows using SQL, Python, and automation.
+### 👨‍💻 About Me
 
-Recently, I’ve expanded into the Azure Data Engineering ecosystem, building real-time and batch solutions using:
+I work in the **ETL Support** domain, where I handle data pipelines and ensure smooth, reliable data processing across enterprise systems.  
+With a strong foundation in **SQL**, **Python**, and **Excel**, I love solving real-world data challenges and optimizing workflows.
 
-⚙️ PySpark for scalable transformations
+Currently, I’m diving deep into the **Azure Data Engineering ecosystem**, learning tools and technologies like:
 
-🌪️ Kafka for streaming ingestion
+* ⚙️ **PySpark** for scalable, distributed processing  
+* 🌩️ **Azure Data Lake & Azure Databricks** for storage + compute  
+* 🔄 **Azure Data Factory** for orchestrating pipelines  
+* 🌪️ **Kafka / Event Hub** for real-time streaming & ingestion  
+* 🧩 **CI/CD** for deployment automation 
 
-🌩️ Azure Data Lake + Azure Databricks for storage & processing
+---
 
-🔄 Azure Data Factory for orchestration
+### 🎯 My Goal
 
-🧩 CI/CD for automated deployments
+To transition into a **Data Engineering role** within the next 6 months — building scalable, production-grade data systems that truly make an impact.
 
-🔥 What I’m Working On
+---
 
-Building an end-to-end Azure data pipeline project using PySpark, ADF, ADLS, and Databricks
+### 🧠 What I’m Up To
 
-Designing real-time ingestion workflows for analytics use cases
+* Building an **end-to-end Azure data pipeline** using PySpark, ADF, ADLS, and Databricks  
+* Learning by doing — creating small, practical data projects & sharing them here  
+* Exploring automation, data quality, and system reliability in modern data platforms  
+* Networking with professionals and data enthusiasts to learn from their journeys  
 
-Experimenting with data quality, automation, and monitoring practices
+---
 
-🎯 My Goal
+### 📫 Connect With Me
 
-Transition into a Data Engineering role — contributing to scalable, production-grade data platforms in the next 6 months.
+Let’s talk data, projects, or ideas!
 
-📫 Let’s Connect
+* 💼 [LinkedIn](https://www.linkedin.com/in/ritik15/)  
+* 🧑‍💻 [Portfolio](#) *(coming soon!)*  
 
-Open to conversations around data, engineering, automation, and cool ideas.
+---
 
-💼 LinkedIn
-
-🧑‍💻 Portfolio (coming soon)
-
-“Data tells stories — I just help it speak louder.”
+> *“Data tells stories — I just help it speak louder.”*
