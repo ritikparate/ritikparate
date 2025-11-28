@@ -13,9 +13,9 @@ Currently, I’m diving deep into the **Azure Data Engineering ecosystem**, lear
 
 * ⚙️ **PySpark** for scalable, distributed processing  
 * 🌩️ **Azure Data Lake & Azure Databricks** for storage + compute  
-* 🔄 **Azure Data Factory** for orchestrating pipelines  
+* 🔄 **Azure Data Factory** for Data Ingestion and orchestrating pipelines  
 * 🌪️ **Kafka / Event Hub** for real-time streaming & ingestion  
-* 🧩 **CI/CD** for deployment automation 
+* 🧩 **CI/CD** for deployment automation and production
 
 ---
 
