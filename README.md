@@ -1,46 +1,103 @@
-# 👋 Hi, I'm Ritik Parate
-
-🚀 **ETL Support Engineer @ Smile Automation** | 🌩️ **Aspiring Azure Data Engineer**
-
----
-
-### 👨‍💻 About Me
-
-I work in the **ETL Support** domain, where I handle data pipelines and ensure smooth, reliable data processing across enterprise systems.  
-With a strong foundation in **SQL**, **Python**, and **Excel**, I love solving real-world data challenges and optimizing workflows.
-
-Currently, I’m diving deep into the **Azure Data Engineering ecosystem**, learning tools and technologies like:
-
-* ⚙️ **PySpark** for scalable, distributed processing  
-* 🌩️ **Azure Data Lake & Azure Databricks** for storage + compute  
-* 🔄 **Azure Data Factory** for Data Ingestion and orchestrating pipelines  
-* 🌪️ **Kafka / Event Hub** for real-time streaming & ingestion  
-* 🧩 **CI/CD** for deployment automation and production
+# 👋 Hi, I'm Ritik Parate  
+🚀 Data Engineer | ⚡ Spark & Databricks Specialist | ☁️ Azure-Focused  
 
 ---
 
-### 🎯 My Goal
+## 👨‍💻 About Me  
 
-To transition into a **Data Engineering role** within the next 6 months — building scalable, production-grade data systems that truly make an impact.
+I’m a **Data Engineering professional in the making** with hands-on experience in **ETL operations, data pipelines, and distributed data processing**. I currently work in a **corporate ETL support environment** and actively build **real-world, production-style data engineering projects**.  
 
----
+My core focus is on:  
+**Spark Optimization • Advanced PySpark • Databricks • Azure Synapse • Microsoft Fabric • Lakehouse Architectures**
 
-### 🧠 What I’m Up To
-
-* Building an **end-to-end Azure data pipeline** using PySpark, ADF, ADLS, and Databricks  
-* Learning by doing — creating small, practical data projects & sharing them here  
-* Exploring automation, data quality, and system reliability in modern data platforms  
-* Networking with professionals and data enthusiasts to learn from their journeys  
+I strongly believe in **learning by building**, and every project here reflects real business use cases.
 
 ---
 
-### 📫 Connect With Me
+## 🧠 Tech Stack  
 
-Let’s talk data, projects, or ideas!
+### 🚀 Data Engineering & Big Data  
+- Apache Spark (Advanced Transformations, Joins, Partitioning, Caching, OOM Handling)  
+- PySpark (Performance Tuning & Optimization)  
+- Databricks (Jobs, Workflows, Lakehouse)  
+- Azure Synapse Analytics  
+- Microsoft Fabric (Exploration in Progress)  
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ritik15/)  
-* 🧑‍💻 [Portfolio](#) *(coming soon!)*  
+### ☁️ Azure & Cloud  
+- Azure Data Factory (ADF)  
+- Azure Data Lake Storage (ADLS Gen2)  
+- Azure Databricks  
+- Event Hub / Streaming (Basics)  
+
+### 👨‍💻 Programming & Querying  
+- Python  
+- SQL  
+- Excel  
+
+### 🏗️ Architecture  
+- Medallion / Bronze–Silver–Gold Architecture  
+- Batch + Near Real-Time Pipelines  
+- Lakehouse Design  
 
 ---
 
-> *“Data tells stories — I just help it speak louder.”*
+## 🛠️ Current Focus  
+
+- ✅ Advanced **Spark Optimization & Memory Management**
+- ✅ **Databricks Deep Dive** (Jobs, Clusters, Cost, Optimization)
+- ✅ **Azure Synapse Analytics**
+- ✅ **Microsoft Fabric (Lakehouse & Warehousing)**
+- ✅ Production-style **end-to-end data engineering projects**
+
+---
+
+## 🔥 Featured Projects  
+
+### 📈 Real-Time Stock Market Lakehouse (Azure + Spark)  
+- Built a **near real-time stock market Lakehouse**
+- Ingests minute-level stock data via **Python (yfinance)**
+- Orchestrated using **Azure Data Factory**
+- Stored in **ADLS using Bronze–Silver–Gold architecture**
+- Transformed using **PySpark on Databricks**
+- Designed for analytics and reporting  
+
+---
+
+### 🛫 Airline Data Ingestion Pipeline (ADF Project)  
+- Built automated pipelines in **Azure Data Factory**
+- Implemented structured ingestion into **ADLS**
+- Applied **data validation, transformations & logging**
+- Focused on **reliability and monitoring**
+
+---
+
+### 🧠 Customer Feedback NLP Pipeline (Batch + Analytics)  
+- Processing large-scale customer feedback data  
+- NLP-based classification & analytics  
+- Cleaned, transformed & analyzed using Spark + Python  
+
+---
+
+## 🎯 Career Goal  
+
+To transition into a **high-impact Data Engineering role**, specializing in **Spark at scale, Databricks, Azure Synapse, and modern Lakehouse platforms** — building systems that handle real enterprise data at speed and scale.
+
+---
+
+## 🌱 What I Believe In  
+
+- Real-world projects > Certificates  
+- Performance optimization > Simple transformations  
+- Scalable systems > Local scripts  
+- Learning continuously through building and debugging  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ritik15  
+- 🧑‍💻 GitHub: You’re already here 😄  
+
+---
+
+> “Big data isn’t about size — it’s about how well you engineer it.”
