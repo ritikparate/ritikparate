@@ -8,7 +8,7 @@
 I’m a **Data Engineering professional in the making** with hands-on experience in **ETL operations, data pipelines, and distributed data processing**. I currently work in a **corporate ETL support environment** and actively build **real-world, production-style data engineering projects**.  
 
 My core focus is on:  
-**Spark Optimization • Advanced PySpark • Databricks • Azure Synapse • Microsoft Fabric • Lakehouse Architectures**
+**Microsoft Azure and ADLS • DataBricks and Pyspark • Spark Optimization • Advanced PySpark • Azure Synapse • Microsoft Fabric • Lakehouse Architectures**
 
 I strongly believe in **learning by building**, and every project here reflects real business use cases.
 
@@ -32,7 +32,8 @@ I strongly believe in **learning by building**, and every project here reflects 
 ### 👨‍💻 Programming & Querying  
 - Python  
 - SQL  
-- Excel  
+- Excel
+- Basic understanding and implementation of C and C++ 
 
 ### 🏗️ Architecture  
 - Medallion / Bronze–Silver–Gold Architecture  
